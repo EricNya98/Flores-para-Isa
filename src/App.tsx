@@ -216,12 +216,7 @@ export default function App() {
                     />
                   </motion.div>
 
-                  {/* Moth Tag */}
-                  <div className="mt-4 flex gap-2 justify-center">
-                    <span className="px-2.5 py-1 rounded-full text-[10px] font-sans tracking-wide bg-[#E07A7A]/5 text-[#E07A7A]/90 border border-[#E07A7A]/20">
-                      Rosy Maple Moth 🌸✨
-                    </span>
-                  </div>
+
                 </div>
               </motion.div>
             </motion.div>
