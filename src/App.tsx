@@ -4,6 +4,11 @@ import { Heart, Volume2, VolumeX, Sparkles, Bug } from 'lucide-react';
 import { BackgroundParticles } from './components/BackgroundParticles';
 import { Envelope } from './components/Envelope';
 import { romanticSynth } from './lib/synth';
+import patoImg from './assets/images/pato_con_flores_1783236644429.jpg';
+import polillaImg from './assets/images/polilla_bonita_1783237750742.jpg';
+
+
+
 
 export default function App() {
   const [isOpened, setIsOpened] = useState(false);
