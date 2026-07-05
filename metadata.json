@@ -1,0 +1,6 @@
+{
+  "name": "Flores Para Ti",
+  "description": "Una hermosa página de estilo romántico, tierno y aesthetic con un patito adorable entregando un ramo de peonías, hortensias y rosas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
