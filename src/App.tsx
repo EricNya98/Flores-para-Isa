@@ -149,7 +149,7 @@ export default function App() {
                     className="w-full aspect-square rounded-2xl overflow-hidden shadow-inner border border-neutral-900"
                   >
                     <img
-                      src="/src/assets/images/pato_con_flores_1783236644429.jpg"
+                      src={patoImg}
                       alt="Un adorable patito entregando un hermoso ramo de peonías blancas, hortensias azules y rosas blancas"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover select-none pointer-events-none transform hover:scale-105 transition-transform duration-700"
@@ -213,7 +213,7 @@ export default function App() {
                     className="w-full aspect-square rounded-2xl overflow-hidden shadow-inner border border-neutral-900"
                   >
                     <img
-                      src="/src/assets/images/polilla_bonita_1783237750742.jpg"
+                      src={polillaImg}
                       alt="Una hermosa polilla rosa y amarilla"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover select-none pointer-events-none transform hover:scale-105 transition-transform duration-700"
