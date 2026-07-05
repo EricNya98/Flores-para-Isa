@@ -6,8 +6,6 @@ import { Envelope } from './components/Envelope';
 import { romanticSynth } from './lib/synth';
 import patoImg from './assets/images/pato_con_flores_1783236644429.jpg';
 import polillaImg from './assets/images/polilla_bonita_1783237750742.jpg';
-import patoImg from './assets/images/pato_con_flores_1783236644429.jpg';
-import polillaImg from './assets/images/polilla_bonita_1783237750742.jpg';
 
 
 
